@@ -1,0 +1,4 @@
+name: Atomic-API
+version: 1.0
+author: extSayzz
+main: net.extsayzz.atomic.api.AtomicAPI

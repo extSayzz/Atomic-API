@@ -1,0 +1,4 @@
+net\extsayzz\atomic\api\init\AtomicHandler.class
+net\extsayzz\atomic\api\init\config\ConfigAPI.class
+net\extsayzz\atomic\api\AtomicAPI.class
+net\extsayzz\atomic\api\init\chat\ChatHelper.class
